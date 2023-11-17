@@ -1,2 +1,3 @@
-# ManualTesting
-All Manual Testing Project related files are/will-be uploaded in this repository. Currently I have uploaded Test Scenario, Test Cases, Test Execution (Document) files in this repository for OrangeHRM (Project 1).
+# Manual-Testing-Project
+
+This repository contains a list of all the projects completed during my manual testing Project. The projects were completed using a combination of manual testing techniques and test management tools.
