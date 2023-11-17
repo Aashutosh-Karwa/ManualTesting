@@ -1,6 +1,0 @@
->>>
-
-..Login scenarios - 2 Scenario possible
-1. put correct login id and password (Positive Scenario)
-2. Put wrong credentials (error Scenario)
-
